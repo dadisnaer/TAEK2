@@ -36,3 +36,11 @@ iVerkefni
 ## 9. Nefndu þrjú dæmi um inntakstæki.
 #### Lyklaborð, tölvumús og myndavélar
 ## 10.
+#### Örgjörvi: Intel Core i5-7600K 3.8GHz S1151 14nm 6MB / 44.995kr.
+#### Minni 16 GB (2x8 GB) 2400 MHz / 14.750kr.
+#### Skjákort: Geforce GTX 1070 8 GB / 66.900kr.
+#### Harði diskur: 500 GB Samsung 850 EVO / 26.950kr.
+#### Móðurborð: Gigabyte GA-Z170N-Gaming 5 / 24.990kr.
+#### Aflgjafi: Aerocool KCAS 800W / 14.500kr.
+#### Kassi: EZ-cool N2-800D / 13.491kr.
+###  = 206.576kr.
