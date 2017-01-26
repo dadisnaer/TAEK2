@@ -17,3 +17,10 @@ iVerkefni
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 #### Hversu mikinn straum er nothæfur og hvernig straum spennugjafinn tekur inn
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+#### - Athuga ef það er ekkert merki um búnaðar skemmdir
+#### - Athuga hvort að BIOSrafhlaðan veitir nægilega spennu
+#### - Þrífa ryk úr vélinni
+#### - ^með notkun multimeter
+#### - Athuga volt móðurborðsins
+#### - Fjarlæga og endurnýja ónýtan búnað
+## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
