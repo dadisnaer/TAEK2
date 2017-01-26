@@ -13,3 +13,5 @@ iVerkefni
 ##### - Tryggir að tækið gangi hiklaust
 ##### - Dregur úr hættu á vinnustoppi
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+#### 'Electrostatic discharge' er skyndilegt flæði raforku á milli rafhlaðinna hluti af völdum snertingum
+## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
