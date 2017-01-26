@@ -34,3 +34,5 @@ iVerkefni
 ## 8. Hvað eru jaðartæki?
 #### Þau tæki sem eru ekki inni í tölvunni sjálfri heldur fyrir utan vélina, jaðartækin sjá um samskiptin milli þín og tölvunnar
 ## 9. Nefndu þrjú dæmi um inntakstæki.
+#### Lyklaborð, tölvumús og myndavélar
+## 10.
