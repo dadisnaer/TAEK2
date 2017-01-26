@@ -24,3 +24,11 @@ iVerkefni
 #### - Athuga volt móðurborðsins
 #### - Fjarlæga og endurnýja ónýtan búnað
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+### Lokuð apurning:
+#### closed ended spurning er þegar þú getur bara svarað "Já" eða "Nei"
+### Opinn spurning:
+#### open ended spurning geturu svarað með meira en bara einu orði
+### Dæmi:
+#### - Fannst þér þetta gaman?
+#### - Hvað fannst þér skemmtilegast?
+## 8. Hvað eru jaðartæki?
