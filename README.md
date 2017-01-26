@@ -15,3 +15,5 @@ iVerkefni
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 #### 'Electrostatic discharge' er skyndilegt flæði raforku á milli rafhlaðinna hluti af völdum snertingum
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+#### Hversu mikinn straum er nothæfur og hvernig straum spennugjafinn tekur inn
+## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
