@@ -8,27 +8,29 @@ iVerkefni
 ## 3. Hvað er fyrirbyggjandi viðhald?
 #### Fyrirbyggjandi viðhald er Árleg skoðun og endurnýjun á ákveðnum slitflötum. Farið er yfir þá þætti sem framleiðandi ráðleggur. Að viðhaldi loknu færðu vottorð um að tækið hafi verið yfirfarið af viðurkenndum þjónustuaðila framleiðandans.
 ### Fyrirbygjandi viðhald
-##### - Eykur endursöluverðmæti tækisins
-##### - Hætta á að slitfletir gefi sig minnkar
-##### - Tryggir að tækið gangi hiklaust
-##### - Dregur úr hættu á vinnustoppi
+#####  - Eykur endursöluverðmæti tækisins
+#####  - Hætta á að slitfletir gefi sig minnkar
+#####  - Tryggir að tækið gangi hiklaust
+#####  - Dregur úr hættu á vinnustoppi
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 #### 'Electrostatic discharge' er skyndilegt flæði raforku á milli rafhlaðinna hluti af völdum snertingum
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 #### Hversu mikinn straum er nothæfur og hvernig straum spennugjafinn tekur inn
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
-#### - Athuga ef það er ekkert merki um búnaðar skemmdir
-#### - Athuga hvort að BIOSrafhlaðan veitir nægilega spennu
-#### - Þrífa ryk úr vélinni
-#### - ^með notkun multimeter
-#### - Athuga volt móðurborðsins
-#### - Fjarlæga og endurnýja ónýtan búnað
+####   - Athuga ef það er ekkert merki um búnaðar skemmdir
+####   - Athuga hvort að BIOSrafhlaðan veitir nægilega spennu
+####   - Þrífa ryk úr vélinni
+####   - ^með notkun multimeter
+####   - Athuga volt móðurborðsins
+####   - Fjarlæga og endurnýja ónýtan búnað
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ### Lokuð apurning:
 #### closed ended spurning er þegar þú getur bara svarað "Já" eða "Nei"
 ### Opinn spurning:
 #### open ended spurning geturu svarað með meira en bara einu orði
 ### Dæmi:
-#### - Fannst þér þetta gaman?
-#### - Hvað fannst þér skemmtilegast?
+####   - Fannst þér þetta gaman?
+####   - Hvað fannst þér skemmtilegast?
 ## 8. Hvað eru jaðartæki?
+#### Þau tæki sem eru ekki inni í tölvunni sjálfri heldur fyrir utan vélina, jaðartækin sjá um samskiptin milli þín og tölvunnar
+## 9. Nefndu þrjú dæmi um inntakstæki.
